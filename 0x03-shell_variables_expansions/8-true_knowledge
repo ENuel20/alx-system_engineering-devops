@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${{128 + $TRUEKNOWLEDGE))[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[[[C[((12[C[C[C[C[C[C[C[C[C[C[C ((128 + $TRUEKNOWLEDGE))
+echo $((128 + $TRUEKNOWLEDGE))
