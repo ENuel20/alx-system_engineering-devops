@@ -1,2 +1,2 @@
 #!/bin/bash
-sum='expr $WATER1 + $STIR2
+echo 'expr WATER + STIR'
