@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'expr WATER + STIR'
+echo 'expr $WATER + $STIR'
