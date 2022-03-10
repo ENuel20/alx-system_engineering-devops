@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passed /etc/hosts[D[D[D[D[D[D[D[D[D[D[D[D[s[w
+cat /etc/passwd /etc/hosts
